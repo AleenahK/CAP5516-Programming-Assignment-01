@@ -1,7 +1,23 @@
 # CAP5516-Programming-Assignment-01
 
-To replicate the results perform the following steps:
+## Download Dataset
 
+Pediatric Chest X-Ray Images (Pneumonia) can be downloaded from the following Kaggle link:
+
+https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
+
+--------------------------------------------------------------------------------------------------------------------
+
+## Download Trained Models and Results
+
+The trained models along with the Accuracy and Loss Curves for all experiments can be downloaded from the folllowing OneDrive link. The folder also contains CAM visualizations with Original and Predicted Classes on the complete test dataset.
+
+https://drive.google.com/file/d/1n1Ntze68f6jIodmqzF3OppHTmRfoigv9/view?usp=sharing
+
+--------------------------------------------------------------------------------------------------------------------
+
+## Setting Up environment and 
+To replicate the results perform the following steps:
 
 --------------------------------------------------------------------------------------------------------------------
 
